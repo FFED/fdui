@@ -1,2 +1,2 @@
 # fdui
-58车金融PC端组件库FDUI
+58车金融PC端组件库FDUI(FINANCE DESKTOP UI)
